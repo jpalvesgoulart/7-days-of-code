@@ -1,6 +1,6 @@
-#7 Days of Code: Dia 1
+# 7 Days of Code: Dia 1 #
 
-*Chegou a hora, João Pedro Alves Goulart! Você vai começar a sua jornada no #7DaysOfCode ;)
+Chegou a hora, João Pedro Alves Goulart! Você vai começar a sua jornada no #7DaysOfCode ;)
 
 Este primeiro dia é super importante! Ao final dele, você terá um novo conhecimento que é essencial para os próximos desafios.
 
@@ -48,4 +48,4 @@ if (COMPARAR O numeroDez e a stringDez) {
   console.log('As variáveis numeroDez e stringDez tem o mesmo valor, mas tipos diferentes')
 } else {
   console.log('As variáveis numeroDez e stringDez não tem o mesmo valor')
-}*
+}
