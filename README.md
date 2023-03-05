@@ -1,4 +1,4 @@
-#7 Days of Code: Dia 1
+# 7 Days of Code: Dia 1
 
 Chegou a hora, João Pedro Alves Goulart! Você vai começar a sua jornada no #7DaysOfCode ;)
 
@@ -51,7 +51,7 @@ if (COMPARAR O numeroDez e a stringDez) {
 }
 
 
-#Dia 2
+# Dia 2
 
 Sabe quando você se cadastra em um site e, logo em seguida, quando faz o seu login, ele já te chama pelo seu nome? É isso que você vai fazer no desafio de hoje!
 
@@ -78,7 +78,7 @@ No final, o sistema vai exibir a mensagem:
 Note que cada informação entre [ ] é uma das respostas dadas pela pessoa. 
 
 
-##EXERCÍCIO OPCIONAL 
+## EXERCÍCIO OPCIONAL 
 
 
 Se você quiser se aprofundar no assunto de hoje, eu tenho mais um exercício para você.
